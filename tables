@@ -1,0 +1,17 @@
+<html>
+    <table>
+        <tr>
+            <th> name </th>
+            <th>salary</th>
+        </tr> 
+        
+        <tr>
+            <td> ramesh roman</td>
+            <td> 70000</td>
+        </td>
+        <td>hillary mon    
+        </td>
+        <td>
+            89990
+        </td>    
+</html>
